@@ -41,7 +41,7 @@ suite('Unit Tests', function(){
 //     // There are more assertions like these: .isNaN(), .isBoolean(), 
 //     // and many others. Almost all the assertions in the chai library
 //     // have their negative counterpart - e.g. .isNotBoolean(), ...
-//   });
+  });
   
 //   // -----------------------------------------------------------------------------
   
@@ -210,10 +210,10 @@ suite('Unit Tests', function(){
 //     });
 //   });
   
-// // -----------------------------------------------------------------------------
-// });
+// -----------------------------------------------------------------------------
+});
 
-// /** 
-//  * Good Job, You are done here !!! 
-//  *  Please go to the file "2_functional_tests.js" ... 
-//  **/
+/** 
+ * Good Job, You are done here !!! 
+ *  Please go to the file "2_functional_tests.js" ... 
+ **/
